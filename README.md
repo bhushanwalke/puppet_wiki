@@ -5,7 +5,7 @@ Tutorial Notes: https://www.evernote.com/l/AkbKJ64YqfhNmoOB9WEHXns5d6AxgQP3eO0
 
 ## Vagrant Multiple-VM Creation and Configuration
 Automatically provision multiple VMs with Vagrant and VirtualBox. Automatically install, configure, and test
-Puppet Master and Puppet Agents on those VMs. All instructions can be found in my blog post:
+Puppet Master and Puppet Agents on those VMs. All instructions can be found in the blog post:
 [http://wp.me/p1RD28-1kX](http://wp.me/p1RD28-1kX)
 
 
